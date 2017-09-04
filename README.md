@@ -4,7 +4,7 @@ Supplementary material (mostly experimental videos or serendipitous snapshots) t
 As of today (04/09/2017), the following material has been added:
 
     Movies for chapter 4: on the influence of span-wise confinement on round fountains.
-    A full caption is provided in-text. However, some description is necessary to flesh out the laconic titles:
+    A full caption is provided in-text. However, some description is helpful to flesh out the laconic titles:
 
                                Fr0               W/r0               Re0
     -----------------------------------------------------------------------
