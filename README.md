@@ -1,5 +1,5 @@
 # thesis_supplements
-Supplementary material (mostly experimental videos or serendipitous snapshots!) to accompany the print version of my dissertation.
+Supplementary material (mostly experimental videos or serendipitous snapshots) to accompany the print version of my dissertation.
 
 As of today (04/09/2017), the following material has been added:
 
