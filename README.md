@@ -14,3 +14,5 @@ As of today (04/09/2017), the following material has been added:
     Q2D_movie_4.avi |         24.5               4.71              4681
     Q2D_movie_5.avi |         63.8               11.8              3313
     Q2D_movie_6.avi |          0.5               4.71               102
+
+13/10/2017: All IP rights now being clear to me, I will also upload a version of my dissertation on here. First draft should be on its way by December.
