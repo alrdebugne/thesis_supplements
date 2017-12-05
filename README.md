@@ -15,4 +15,12 @@ As of today (04/09/2017), the following material has been added:
     Q2D_movie_5.avi |         63.8               11.8              3313
     Q2D_movie_6.avi |          0.5               4.71               102
 
-13/10/2017: All IP rights now being clear to me, I will also upload a version of my dissertation on here. First draft should be on its way by December.
+As today today (05/12/2017), new movies have been added to accompany chapter 5 on line fountains:
+
+                                                    Fr0             Re0           z_f/L
+    -------------------------------------------------------------------------------------
+    line_fountains_initial_rise.avi      |         18.9              98           0.177
+    line_fountains_three_wavelenghts.avi |         10.2              53           0.079
+    line_fountains_uniform.avi           |         26.4              114          0.462
+    line_fountains_uniform_chaotic.avi   |         51.3              114          0.565
+    line_fountains_many_wavelenghts.avi  |          5.5              15           0.029
